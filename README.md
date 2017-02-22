@@ -1,4 +1,4 @@
-# First Person Shooter game built with Unreal Engine 4
+# First Person Shooter game built with Unreal Engine 4.8.3
 
 This repository holds the source code files (Visual studio project files and C++ headers/source code files)
 
